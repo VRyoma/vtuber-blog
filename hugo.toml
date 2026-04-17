@@ -1,0 +1,118 @@
+baseURL = "https://example.pages.dev/"
+title = "VTuber ネタ帳"
+defaultContentLanguage = "ja"
+defaultContentLanguageInSubdir = false
+hasCJKLanguage = true
+enableRobotsTXT = true
+enableEmoji = true
+
+[pagination]
+  pagerSize = 10
+
+[permalinks]
+  post = "/p/:slug/"
+  page = "/:slug/"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  mainSections = ["post"]
+  featuredImageField = "image"
+  rssFullContent = true
+  favicon = "/favicon.png"
+
+  [params.footer]
+    since = 2026
+    customText = ""
+
+  [params.dateFormat]
+    published = "2006-01-02"
+    lastUpdated = "2006-01-02 15:04 MST"
+
+  [params.sidebar]
+    compact = false
+    emoji = "🎙️"
+    subtitle = "VTuber 向けの配信ネタ・企画アイデアをゆるく放流する場所"
+
+    [params.sidebar.avatar]
+      enabled = true
+      local = false
+      src = "https://api.dicebear.com/9.x/bottts-neutral/svg?seed=vtuber"
+
+  [params.article]
+    math = false
+    toc = true
+    readingTime = true
+
+    [params.article.license]
+      enabled = false
+      default = "CC BY-NC-SA 4.0"
+
+  [params.comments]
+    enabled = false
+    provider = "disqus"
+
+  [[params.widgets.homepage]]
+    type = "search"
+
+  [[params.widgets.homepage]]
+    type = "archives"
+    params = { limit = 5 }
+
+  [[params.widgets.homepage]]
+    type = "categories"
+    params = { limit = 10 }
+
+  [[params.widgets.homepage]]
+    type = "tag-cloud"
+    params = { limit = 10 }
+
+  [[params.widgets.page]]
+    type = "toc"
+
+  [params.opengraph.twitter]
+    site = ""
+    card = "summary_large_image"
+
+  [params.defaultImage.opengraph]
+    enabled = false
+
+  [params.colorScheme]
+    toggle = true
+    default = "auto"
+
+  [params.imageProcessing]
+    [params.imageProcessing.cover]
+      enabled = true
+    [params.imageProcessing.content]
+      enabled = true
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.tableOfContents]
+    endLevel = 4
+    ordered = true
+    startLevel = 2
+  [markup.highlight]
+    noClasses = false
+    codeFences = true
+    guessSyntax = true
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    tabWidth = 2
+
+[related]
+  includeNewer = true
+  threshold = 60
+  toLower = false
+
+  [[related.indices]]
+    name = "tags"
+    weight = 100
+  [[related.indices]]
+    name = "categories"
+    weight = 200
