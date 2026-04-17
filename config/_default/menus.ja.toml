@@ -30,6 +30,14 @@
   [main.params]
     icon = "user"
 
+[[main]]
+  identifier = "privacy-policy"
+  name = "プライバシーポリシー"
+  url = "/privacy-policy/"
+  weight = 50
+  [main.params]
+    icon = "link"
+
 [[social]]
   identifier = "github"
   name = "GitHub"
