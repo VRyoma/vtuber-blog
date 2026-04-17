@@ -16,8 +16,11 @@
 | Build command | `npm install && npx hugo --gc --minify` |
 | Build output directory | `public` |
 | Root directory | (空でよい) |
+| Deploy command (Workers の場合のみ) | `npx wrangler deploy` または空欄 |
 
 > **重要**: Cloudflare Pages の自動インストールは **非 extended 版** の Hugo しか入れないため、Stack テーマ (SCSS を使う) では SCSS ビルドエラーになります。本リポジトリは `package.json` に `hugo-extended` を入れて `npx hugo` 経由でビルドすることで extended 版を使います。
+
+> **Workers Assets (新方式) で公開される場合**: リポジトリ直下の `wrangler.jsonc` が使われ、`public/` を静的アセットとして配信します。Pages ビルドの場合はこのファイルは無視されるので併存して問題ありません。
 
 ## 3. 環境変数
 
