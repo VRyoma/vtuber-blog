@@ -4,11 +4,6 @@ slug: "privacy-policy"
 date: 2026-04-17T10:00:00+09:00
 draft: false
 description: "VTuber ネタ帳のプライバシーポリシー。Cookie の使用、広告配信、アクセス解析に関する説明。"
-menu:
-  main:
-    weight: 50
-    params:
-      icon: link
 ---
 
 ## 基本方針
