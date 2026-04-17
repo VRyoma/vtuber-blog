@@ -12,10 +12,12 @@
 
 | 項目 | 値 |
 |---|---|
-| Framework preset | `Hugo` |
-| Build command | `hugo --gc --minify` |
+| Framework preset | `None` (手動で設定) |
+| Build command | `npm install && npx hugo --gc --minify` |
 | Build output directory | `public` |
 | Root directory | (空でよい) |
+
+> **重要**: Cloudflare Pages の自動インストールは **非 extended 版** の Hugo しか入れないため、Stack テーマ (SCSS を使う) では SCSS ビルドエラーになります。本リポジトリは `package.json` に `hugo-extended` を入れて `npx hugo` 経由でビルドすることで extended 版を使います。
 
 ## 3. 環境変数
 
@@ -23,11 +25,11 @@ Cloudflare Pages → Settings → Environment variables に以下を追加。
 
 | Key | Value | Scope |
 |---|---|---|
-| `HUGO_VERSION` | `0.141.0` | Production & Preview |
 | `HUGO_ENV` | `production` | Production |
 | `GO_VERSION` | `1.22.0` | Production & Preview |
+| `NODE_VERSION` | `20` | Production & Preview |
 
-`GO_VERSION` は Hugo Module を解決するために必要です (このリポジトリは Stack テーマを Hugo Module 経由で読み込んでいるため)。
+`GO_VERSION` は Hugo Module を解決するために必要です (Stack テーマを Hugo Module 経由で読み込んでいるため)。`HUGO_VERSION` は `package.json` で固定しているため環境変数では指定しません。
 
 ## 4. カスタムドメイン (任意)
 
@@ -40,5 +42,5 @@ PR を作ると Cloudflare Pages が自動で Preview URL (`<hash>.vtuber-blog.p
 ## トラブルシュート
 
 - **`module not found`**: `GO_VERSION` が未設定の可能性。環境変数を確認。
-- **`hugo: command not found` / 古い Hugo**: `HUGO_VERSION` を明示。preset だけだと古い版が入ることがある。
+- **`TOCSS: ... extended version required`**: ビルドコマンドが素の `hugo` になっている。`npm install && npx hugo --gc --minify` に変更。
 - **日本語が文字化け**: `hasCJKLanguage = true` が `hugo.toml` にあるか確認 (本リポジトリでは設定済み)。

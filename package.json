@@ -1,0 +1,13 @@
+{
+  "name": "vtuber-blog",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Hugo site build dependencies for Cloudflare Pages (uses hugo-extended for SCSS support).",
+  "scripts": {
+    "build": "hugo --gc --minify",
+    "dev": "hugo server -D"
+  },
+  "devDependencies": {
+    "hugo-extended": "0.141.0"
+  }
+}
