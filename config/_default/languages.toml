@@ -1,19 +1,19 @@
 [ja]
   languageName = "日本語"
   languageCode = "ja-JP"
-  title = "VTuber ネタ帳"
+  title = "Virtual Village"
   contentDir = "content/ja"
   weight = 1
 
   [ja.params]
-    description = "VTuber 向けの配信ネタ・企画アイデア・歌枠構成・運営Tips を詰め込むネタ帳"
+    description = "VTuber 向けの配信ネタ・企画アイデア・歌枠構成・運営Tips を詰め込む場所"
     [ja.params.sidebar]
       subtitle = "VTuber の配信を少しだけ面白くするネタ帳"
 
 [en]
   languageName = "English"
   languageCode = "en-US"
-  title = "VTuber Idea Notebook"
+  title = "Virtual Village"
   contentDir = "content/en"
   weight = 2
 

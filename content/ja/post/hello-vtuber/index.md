@@ -1,5 +1,5 @@
 ---
-title: "ようこそ VTuber ネタ帳へ"
+title: "ようこそ Virtual Villageへ"
 slug: "hello-vtuber"
 date: 2026-04-01T10:00:00+09:00
 draft: false
@@ -13,7 +13,7 @@ tags:
 
 ## はじめまして
 
-**VTuber ネタ帳** は、VTuber の配信を少しだけ面白くする小さなアイデアを
+**Virtual Village** は、VTuber の配信を少しだけ面白くする小さなアイデアを
 蓄えていく場所です。大きな理論より、**今日の配信にすぐ使える粒度**を
 意識して書いていきます。
 
