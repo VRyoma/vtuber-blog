@@ -1,5 +1,5 @@
-baseURL = "https://vtblog.vvil.jp/"
-title = "VTuber ネタ帳"
+baseURL = "https://vvil.jp/"
+title = "Virtual Village"
 defaultContentLanguage = "ja"
 defaultContentLanguageInSubdir = false
 hasCJKLanguage = true

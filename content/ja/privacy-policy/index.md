@@ -3,12 +3,12 @@ title: "プライバシーポリシー"
 slug: "privacy-policy"
 date: 2026-04-17T10:00:00+09:00
 draft: false
-description: "VTuber ネタ帳のプライバシーポリシー。Cookie の使用、広告配信、アクセス解析に関する説明。"
+description: "Virtual Villageのプライバシーポリシー。Cookie の使用、広告配信、アクセス解析に関する説明。"
 ---
 
 ## 基本方針
 
-VTuber ネタ帳（以下「当サイト」）は、訪問者のプライバシーを尊重し、個人情報の取り扱いに十分な注意を払います。
+Virtual Village（以下「当サイト」）は、訪問者のプライバシーを尊重し、個人情報の取り扱いに十分な注意を払います。
 
 ---
 
