@@ -1,7 +1,7 @@
 ---
 title: "Welcome to the VTuber Idea Notebook"
 slug: "hello-vtuber"
-date: 2026-04-01T10:00:00+09:00
+date: 2026-04-17T10:00:00+09:00
 draft: false
 description: "What this blog covers and a preview of the first three posts coming up."
 categories:
