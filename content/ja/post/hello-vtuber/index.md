@@ -1,7 +1,7 @@
 ---
 title: "ようこそ Virtual Villageへ"
 slug: "hello-vtuber"
-date: 2026-04-01T10:00:00+09:00
+date: 2026-04-17T10:00:00+09:00
 draft: false
 description: "このブログで扱うテーマと、最初に読んでほしい 3 本の方針記事の予告。"
 categories:
