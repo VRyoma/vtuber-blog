@@ -38,8 +38,8 @@ enableEmoji = true
 
     [params.sidebar.avatar]
       enabled = true
-      local = false
-      src = "https://api.dicebear.com/9.x/bottts-neutral/svg?seed=vtuber"
+      local = true
+      src = "img/avatar.png"
 
   [params.article]
     math = false
