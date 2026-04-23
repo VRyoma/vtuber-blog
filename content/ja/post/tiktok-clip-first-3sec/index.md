@@ -1,7 +1,7 @@
 ---
 title: "TikTok クリップの「最初の3秒」に何を入れるか"
 slug: "tiktok-clip-first-3sec"
-date: 2026-04-17T10:00:00+09:00
+date: 2026-04-18T10:00:00+09:00
 draft: false
 description: "TikTokでクリップがスワイプされる原因の多くは最初の3秒にあります。冒頭に「驚き」か「疑問」を置くだけで離脱を防ぐ編集術を紹介します。"
 categories:

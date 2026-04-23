@@ -1,7 +1,7 @@
 ---
 title: "The Minimal Setup to Launch YouTube Channel Memberships with Just Five Members"
 slug: "youtube-membership-minimum-setup"
-date: 2026-04-23T10:00:00+09:00
+date: 2026-04-27T10:00:00+09:00
 draft: false
 description: "You only need three perks and a single low-price tier to launch YouTube memberships today. Here is the five-step setup and three areas to review when sign-ups stall."
 categories:

@@ -1,7 +1,7 @@
 ---
 title: "Let Your Viewers DJ the Stream — How to Run a Song Request Voting Show"
 slug: "viewer-dj-request-stream"
-date: 2026-04-23T10:00:00+09:00
+date: 2026-04-19T10:00:00+09:00
 draft: false
 description: "A request-and-vote format that can double your chat activity. Includes a three-phase template (collect, vote, perform) and method recommendations by audience size."
 categories:

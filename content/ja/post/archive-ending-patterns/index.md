@@ -1,7 +1,7 @@
 ---
 title: "視聴者が「次も来たい」と思う配信の締め方 3 パターン"
 slug: "archive-ending-patterns"
-date: 2026-04-17T11:00:00+09:00
+date: 2026-04-08T10:00:00+09:00
 draft: false
 description: "なんとなく終わらせる配信をやめるだけで、リピーターの数が変わります。今日から使える締め方を 3 パターンで解説。"
 categories:

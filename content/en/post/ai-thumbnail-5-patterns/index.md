@@ -1,7 +1,7 @@
 ---
 title: "Generate 5 Thumbnail Ideas in 3 Minutes with AI"
 slug: "ai-thumbnail-5-patterns"
-date: 2026-04-22T10:00:00+09:00
+date: 2026-04-30T10:00:00+09:00
 draft: false
 description: "A copy-paste prompt template that produces five thumbnail layout options in about three minutes. Includes five reusable composition patterns and finishing tips."
 categories:

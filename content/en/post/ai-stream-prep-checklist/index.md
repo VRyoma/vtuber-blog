@@ -1,7 +1,7 @@
 ---
 title: "Build a Stream-Prep Checklist with AI in 5 Minutes"
 slug: "ai-stream-prep-checklist"
-date: 2026-04-22T10:00:00+09:00
+date: 2026-05-04T10:00:00+09:00
 draft: false
 description: "Stop forgetting the same prep steps every stream. Use a simple AI prompt to generate a custom checklist in five minutes, with examples for chat, gaming, and singing streams."
 categories:

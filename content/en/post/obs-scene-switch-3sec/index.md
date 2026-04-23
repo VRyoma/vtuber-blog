@@ -1,7 +1,7 @@
 ---
 title: "Tame Your OBS Scenes — Switch in Under 3 Seconds"
 slug: "obs-scene-switch-3sec"
-date: 2026-04-17T10:00:00+09:00
+date: 2026-04-05T10:00:00+09:00
 draft: false
 description: "Clean up your OBS scenes and sources so you can switch with a single hotkey in under three seconds."
 categories:

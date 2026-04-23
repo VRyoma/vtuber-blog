@@ -1,7 +1,7 @@
 ---
 title: "Cloudflare Workers + Hugo で配信サイトを無料公開する手順"
 slug: "cloudflare-workers-hugo-deploy"
-date: 2026-04-17T10:00:00+09:00
+date: 2026-04-04T10:00:00+09:00
 draft: false
 description: "独自ドメインのサイトを持ちたいがサーバー代を払いたくない人向けに、Hugoで作った静的サイトをCloudflare Workers Assetsに無料で載せる手順を解説します。"
 categories:

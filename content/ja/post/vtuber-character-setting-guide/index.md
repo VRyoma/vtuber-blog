@@ -1,7 +1,7 @@
 ---
 title: "VTuber キャラ設定を3要素で組み立てるガイド"
 slug: "vtuber-character-setting-guide"
-date: 2026-04-23T10:00:00+09:00
+date: 2026-04-03T10:00:00+09:00
 draft: false
 description: "VTuber のキャラ設定は名前・口調・背景の 3 要素を順番に埋めるだけで完成します。デビュー前に迷わない組み立て方と、最小限で始めるコツをテンプレ付きで解説。"
 categories:

@@ -1,7 +1,7 @@
 ---
 title: "A Beginner's Guide to Building Your VTuber Character With 3 Core Elements"
 slug: "vtuber-character-setting-guide"
-date: 2026-04-23T10:00:00+09:00
+date: 2026-04-03T10:00:00+09:00
 draft: false
 description: "Build a complete VTuber character by filling in three elements in order: name, speech style, and backstory. A step-by-step template for anyone preparing to debut."
 categories:

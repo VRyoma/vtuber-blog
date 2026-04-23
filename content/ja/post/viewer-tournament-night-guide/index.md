@@ -1,7 +1,7 @@
 ---
 title: "視聴者対戦Nightの募集から進行まるわかりガイド"
 slug: "viewer-tournament-night-guide"
-date: 2026-04-23T10:00:00+09:00
+date: 2026-04-21T10:00:00+09:00
 draft: false
 description: "視聴者対戦Nightは事前準備と進行テンプレを押さえれば初回でも楽しめます。募集・ルール決め・当日テンプレ・トラブル対応を具体的に解説。"
 categories:

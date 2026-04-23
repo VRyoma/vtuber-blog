@@ -1,7 +1,7 @@
 ---
 title: "Let Chat Decide Your Entire Stream in One Hour"
 slug: "chat-decides-whole-stream"
-date: 2026-04-23T10:00:00+09:00
+date: 2026-04-20T10:00:00+09:00
 draft: false
 description: "Hand your stream plan over to chat and skip the prep work entirely. Learn how to build three-choice prompts, run a one-hour interactive stream, and keep silence at bay."
 categories:
