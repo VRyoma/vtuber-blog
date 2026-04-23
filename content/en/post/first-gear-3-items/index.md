@@ -1,7 +1,7 @@
 ---
 title: "3 Pieces of Gear to Buy First (and What to Skip)"
 slug: "first-gear-3-items"
-date: 2026-04-17T10:00:00+09:00
+date: 2026-04-02T10:00:00+09:00
 draft: false
 description: "Not sure what gear to buy first? This guide covers the three items worth investing in right away and everything you can safely put off."
 categories:

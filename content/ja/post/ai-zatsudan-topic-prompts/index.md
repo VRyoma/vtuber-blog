@@ -1,7 +1,7 @@
 ---
 title: "AI に「今日の雑談お題」を出してもらう 3 つのプロンプト"
 slug: "ai-zatsudan-topic-prompts"
-date: 2026-04-22T10:00:00+09:00
+date: 2026-05-01T10:00:00+09:00
 draft: false
 description: "ChatGPT に役割・条件・フォーマットを指定するだけで、配信ごとに違う雑談お題を量産できるプロンプト 3 選を紹介します。"
 categories:

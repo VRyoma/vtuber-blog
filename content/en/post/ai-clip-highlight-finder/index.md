@@ -1,7 +1,7 @@
 ---
 title: "Let AI Find Your Clip Highlights in Five Minutes"
 slug: "ai-clip-highlight-finder"
-date: 2026-04-22T10:00:00+09:00
+date: 2026-05-03T10:00:00+09:00
 draft: false
 description: "Turn transcripts plus AI into a highlight finder that surfaces clip-ready moments from any archive in about five minutes. Free tools only."
 categories:

@@ -1,7 +1,7 @@
 ---
 title: "Post-Stream Tweet Templates: 5 Patterns to Close Out Your Stream"
 slug: "post-stream-tweet-templates"
-date: 2026-04-17T10:00:00+09:00
+date: 2026-04-13T10:00:00+09:00
 draft: false
 description: "Five copy-and-paste tweet patterns for after your stream ends, combining archive links, highlights, and next-stream teases."
 categories:

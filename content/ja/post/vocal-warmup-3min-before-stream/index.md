@@ -1,7 +1,7 @@
 ---
 title: "歌う前に 3 分 — 配信前のボーカルウォームアップ手順"
 slug: "vocal-warmup-3min-before-stream"
-date: 2026-04-23T10:00:00+09:00
+date: 2026-04-24T10:00:00+09:00
 draft: false
 description: "配信前の 3 分ウォームアップで歌枠 1 曲目の声を安定させる 5 ステップを解説。深呼吸からサビ歌唱まで順番に進む声出し手順です。"
 categories:

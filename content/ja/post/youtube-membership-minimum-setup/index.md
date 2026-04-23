@@ -1,7 +1,7 @@
 ---
 title: "YouTube メンバーシップを 5 人で始めるための最小構成"
 slug: "youtube-membership-minimum-setup"
-date: 2026-04-23T10:00:00+09:00
+date: 2026-04-27T10:00:00+09:00
 draft: false
 description: "YouTubeメンバーシップは特典3つ・490円プラン1本で今日始められます。最小構成での開設手順と、加入者を増やす3つの見直しポイントを解説。"
 categories:

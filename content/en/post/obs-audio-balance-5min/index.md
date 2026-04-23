@@ -1,7 +1,7 @@
 ---
 title: "Fix Your Stream Audio Balance in 5 Minutes — OBS Audio Mixer Basics"
 slug: "obs-audio-balance-5min"
-date: 2026-04-17T10:00:00+09:00
+date: 2026-04-06T10:00:00+09:00
 draft: false
 description: "Stop getting 'your game audio is too loud' comments. Learn how to set target dB levels for each audio source in OBS and prioritize your voice."
 categories:

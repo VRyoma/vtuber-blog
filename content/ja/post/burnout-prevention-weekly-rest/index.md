@@ -1,7 +1,7 @@
 ---
 title: "週1休むだけで燃え尽きを防ぐ配信ルーティン"
 slug: "burnout-prevention-weekly-rest"
-date: 2026-04-23T10:00:00+09:00
+date: 2026-04-26T10:00:00+09:00
 draft: false
 description: "週に1日「配信しない日」を決めるだけで燃え尽きを防げます。休みの過ごし方と、ペースが落ちたときの再開ステップを解説。"
 categories:

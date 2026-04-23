@@ -1,7 +1,7 @@
 ---
 title: "配信カレンダーを1ヶ月分まとめて立てる — 無料ツールだけで計画する"
 slug: "monthly-stream-calendar"
-date: 2026-04-17T10:00:00+09:00
+date: 2026-04-14T10:00:00+09:00
 draft: false
 description: "毎回「今日何やろう」と迷って配信頻度が不安定になる人向けに、Googleカレンダーとスプレッドシートで月間配信計画を組む手順を紹介します。"
 categories:

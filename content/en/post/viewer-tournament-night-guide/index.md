@@ -1,7 +1,7 @@
 ---
 title: "The Complete Guide to Running a Viewer Tournament Night"
 slug: "viewer-tournament-night-guide"
-date: 2026-04-23T10:00:00+09:00
+date: 2026-04-21T10:00:00+09:00
 draft: false
 description: "Tournament nights bring you closer to your audience when the prep work is solid. Learn how to pick a game, recruit players, set rules, and handle surprises on stream."
 categories:

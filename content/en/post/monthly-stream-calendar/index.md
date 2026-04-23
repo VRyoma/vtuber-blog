@@ -1,7 +1,7 @@
 ---
 title: "Plan a Full Month of Streams with Free Tools"
 slug: "monthly-stream-calendar"
-date: 2026-04-17T10:00:00+09:00
+date: 2026-04-14T10:00:00+09:00
 draft: false
 description: "If you scramble to decide what to stream minutes before going live, this guide shows how to plan a whole month using Google Calendar and Sheets."
 categories:

@@ -1,7 +1,7 @@
 ---
 title: "How to Pick the Perfect Last Song for Your Singing Stream"
 slug: "utawaku-last-song-pick"
-date: 2026-04-23T10:00:00+09:00
+date: 2026-04-25T10:00:00+09:00
 draft: false
 description: "The last song in a singing stream shapes how viewers remember the whole broadcast. Pick one role — linger, hype, or tease — and use the 3-second check to choose fast."
 categories:

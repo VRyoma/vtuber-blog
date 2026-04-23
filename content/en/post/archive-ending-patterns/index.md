@@ -1,7 +1,7 @@
 ---
 title: "3 Stream Endings That Make Viewers Want to Come Back"
 slug: "archive-ending-patterns"
-date: 2026-04-17T11:00:00+09:00
+date: 2026-04-08T10:00:00+09:00
 draft: false
 description: "How you end a stream shapes whether viewers return. Here are three ending patterns you can use tonight to build a more loyal audience."
 categories:

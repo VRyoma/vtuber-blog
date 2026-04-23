@@ -1,7 +1,7 @@
 ---
 title: "One-Stream Retro Games — How to Pick Titles and Run the Session"
 slug: "retro-game-one-stream-template"
-date: 2026-04-23T10:00:00+09:00
+date: 2026-04-22T10:00:00+09:00
 draft: false
 description: "Retro games work great for single-stream sessions when you pick titles that are short, visually striking, easy to learn, and have a memorable ending. Here is a title selection guide and a 55-minute run template."
 categories:

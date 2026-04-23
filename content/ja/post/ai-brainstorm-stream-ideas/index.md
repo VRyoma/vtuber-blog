@@ -1,7 +1,7 @@
 ---
 title: "AI を「ツッコミ役」にして配信企画を深掘りする方法"
 slug: "ai-brainstorm-stream-ideas"
-date: 2026-04-22T10:00:00+09:00
+date: 2026-05-02T10:00:00+09:00
 draft: false
 description: "AI に「ツッコミ役」を任せれば一人ブレストが劇的に変わります。プロンプトの型と「視聴者参加型クイズ」の Before / After 実例つきで解説。"
 categories:

@@ -1,7 +1,7 @@
 ---
 title: "The 3-Color Rule for Thumbnails That Pop — No Text Needed"
 slug: "thumbnail-3color-rule"
-date: 2026-04-17T10:00:00+09:00
+date: 2026-04-16T10:00:00+09:00
 draft: false
 description: "Limit your thumbnail palette to three colors and watch clarity improve. Learn the thinking behind the 3-color rule and a step-by-step workflow you can follow."
 categories:

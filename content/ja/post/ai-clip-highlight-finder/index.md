@@ -1,7 +1,7 @@
 ---
 title: "配信後の「切り抜きポイント」を AI に探させる方法"
 slug: "ai-clip-highlight-finder"
-date: 2026-04-22T10:00:00+09:00
+date: 2026-05-03T10:00:00+09:00
 draft: false
 description: "文字起こし＋AIでアーカイブの切り抜き候補を5分で見つける手順を紹介。無料ツールだけで今日から始められる5ステップです。"
 categories:
