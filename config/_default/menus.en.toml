@@ -31,8 +31,15 @@
     icon = "user"
 
 [[social]]
-  identifier = "github"
-  name = "GitHub"
-  url = "https://github.com/vryoma/vtuber-blog"
+  identifier = "x"
+  name = "𝕏"
+  url = "https://x.com/ryoma_dq"
   [social.params]
-    icon = "brand-github"
+    icon = "brand-x"
+
+[[social]]
+  identifier = "rss"
+  name = "RSS"
+  url = "/en/index.xml"
+  [social.params]
+    icon = "rss"
