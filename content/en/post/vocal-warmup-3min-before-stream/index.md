@@ -1,7 +1,7 @@
 ---
 title: "3 Minutes Before You Sing: A Pre-Stream Vocal Warm-Up Routine"
 slug: "vocal-warmup-3min-before-stream"
-date: 2026-04-24T10:00:00+09:00
+date: 2026-04-06T15:00:00+09:00
 draft: false
 description: "A 5-step, 3-minute warm-up to stabilize your voice from the very first song of your singing stream. Covers breathing, lip trills, tongue exercises, vowel scales, and a chorus run-through."
 categories:

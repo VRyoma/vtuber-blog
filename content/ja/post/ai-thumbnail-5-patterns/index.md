@@ -1,7 +1,7 @@
 ---
 title: "AI でサムネ案を 3 分で 5 パターン出す手順"
 slug: "ai-thumbnail-5-patterns"
-date: 2026-04-30T10:00:00+09:00
+date: 2026-04-13T10:00:00+09:00
 draft: false
 description: "画像生成 AI にプロンプトの型を渡すだけで、3 分で 5 パターンのサムネ候補を出す手順を解説。構図テンプレと仕上げのコツもまとめました。"
 categories:

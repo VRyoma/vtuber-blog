@@ -1,7 +1,7 @@
 ---
 title: "Deploy a Hugo Site on Cloudflare Workers for Free"
 slug: "cloudflare-workers-hugo-deploy"
-date: 2026-04-04T10:00:00+09:00
+date: 2026-04-24T15:00:00+09:00
 draft: false
 description: "How to host a Hugo static site on Cloudflare Workers Assets at zero cost, from build to custom domain with HTTPS."
 categories:

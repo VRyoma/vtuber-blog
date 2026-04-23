@@ -1,7 +1,7 @@
 ---
 title: "Build a Karaoke Stream Setlist in 3 Minutes with AI"
 slug: "ai-utawaku-setlist-assistant"
-date: 2026-05-05T10:00:00+09:00
+date: 2026-04-14T10:00:00+09:00
 draft: false
 description: "Cut your song-picking time from 30 minutes to 3 with a ready-to-paste AI prompt. Includes theme examples and tips for matching songs to your vocal range."
 categories:

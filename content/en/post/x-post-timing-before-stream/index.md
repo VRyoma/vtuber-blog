@@ -1,7 +1,7 @@
 ---
 title: "Pre-Stream X Posts — When, How Often, and What to Say"
 slug: "x-post-timing-before-stream"
-date: 2026-04-17T10:00:00+09:00
+date: 2026-04-23T18:00:00+09:00
 draft: false
 description: "One 'stream starting now' post isn't enough. Learn a three-post rhythm — 30 minutes before, 5 minutes before, and right at go-time — to get more eyes on your stream."
 categories:

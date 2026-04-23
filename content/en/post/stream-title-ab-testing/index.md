@@ -1,7 +1,7 @@
 ---
 title: "Which Title Gets More Clicks? — A/B Testing Your Stream Titles"
 slug: "stream-title-ab-testing"
-date: 2026-04-15T10:00:00+09:00
+date: 2026-04-22T15:00:00+09:00
 draft: false
 description: "A small tweak at the end of your title can change your archive click rate. Here is how to run A/B tests on your own streams."
 categories:

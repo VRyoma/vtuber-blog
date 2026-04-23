@@ -1,7 +1,7 @@
 ---
 title: "配信中のシーン切替がスムーズにならない人のための OBS 整理術"
 slug: "obs-scene-switch-3sec"
-date: 2026-04-05T10:00:00+09:00
+date: 2026-04-22T10:00:00+09:00
 draft: false
 description: "OBSのシーンとソースを整理し、ホットキー一発で3秒以内に切り替えられるようにする手順を紹介します。"
 categories:

@@ -1,7 +1,7 @@
 ---
 title: "記念配信を「ただの雑談」で終わらせない 4 つの型"
 slug: "celebration-stream-4patterns"
-date: 2026-04-23T10:00:00+09:00
+date: 2026-04-10T10:00:00+09:00
 draft: false
 description: "記念配信を4つの型（振り返り・クイズ・サプライズ・目標発表）で構成すれば、感謝だけの雑談に終わりません。組み合わせ例とともに紹介します。"
 categories:

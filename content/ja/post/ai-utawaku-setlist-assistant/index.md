@@ -1,7 +1,7 @@
 ---
 title: "AI で歌枠セットリストを 3 分で組む方法"
 slug: "ai-utawaku-setlist-assistant"
-date: 2026-05-05T10:00:00+09:00
+date: 2026-04-14T10:00:00+09:00
 draft: false
 description: "歌枠の選曲を 30 分から 3 分に短縮する AI プロンプトの型を紹介。テーマ・得意キーを入力するだけでセットリストが完成する方法と、テーマ別例 3 パターンをまとめました。"
 categories:

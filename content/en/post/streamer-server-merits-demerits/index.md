@@ -1,7 +1,7 @@
 ---
 title: "Streamer Servers: A Complete Guide to the Pros and Cons Before You Join"
 slug: "streamer-server-merits-demerits"
-date: 2026-04-10T10:00:00+09:00
+date: 2026-04-04T15:00:00+09:00
 draft: false
 description: "Thinking about joining a streamer server? Here is a practical breakdown of the benefits and the risks, so you can decide with confidence."
 categories:

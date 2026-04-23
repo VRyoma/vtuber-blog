@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT で作る「配信準備チェックリスト」テンプレ"
 slug: "ai-stream-prep-checklist"
-date: 2026-05-04T10:00:00+09:00
+date: 2026-04-12T10:00:00+09:00
 draft: false
 description: "配信準備の抜け漏れを無くす自分専用チェックリストを、ChatGPT にプロンプトを投げて5分で作る方法と3パターンの例を紹介します。"
 categories:

@@ -1,7 +1,7 @@
 ---
 title: "Generate Stream Titles with AI, Then Pick the Winner with A/B Testing"
 slug: "ai-stream-title-generator"
-date: 2026-04-29T10:00:00+09:00
+date: 2026-04-12T15:00:00+09:00
 draft: false
 description: "A three-step workflow: generate ten title ideas with AI, filter them through a checklist, then run a quick A/B test to see which one wins."
 categories:
