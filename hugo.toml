@@ -33,7 +33,7 @@ enableEmoji = true
 
   [params.sidebar]
     compact = false
-    emoji = "🎙️"
+    emoji = ""
     subtitle = "VTuber 向けの配信ネタ・企画アイデアをゆるく放流する場所"
 
     [params.sidebar.avatar]
