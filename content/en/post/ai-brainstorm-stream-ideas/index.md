@@ -1,7 +1,7 @@
 ---
 title: "Use AI as Your Devil's Advocate to Break Out of Stream-Idea Ruts"
 slug: "ai-brainstorm-stream-ideas"
-date: 2026-05-02T10:00:00+09:00
+date: 2026-04-11T10:00:00+09:00
 draft: false
 description: "Solo brainstorming keeps giving you the same ideas. Here is a prompt template that lets AI poke holes in your plans, plus a before-and-after walkthrough for a viewer-quiz stream."
 categories:

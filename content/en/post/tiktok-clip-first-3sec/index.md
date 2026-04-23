@@ -1,7 +1,7 @@
 ---
 title: "What Belongs in the First 3 Seconds of a TikTok Clip"
 slug: "tiktok-clip-first-3sec"
-date: 2026-04-18T10:00:00+09:00
+date: 2026-04-23T14:00:00+09:00
 draft: false
 description: "Most TikTok clips get swiped away in under a second. Learn how to open with surprise or curiosity so viewers stick around past the first three seconds."
 categories:

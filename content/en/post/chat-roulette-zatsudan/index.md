@@ -1,7 +1,7 @@
 ---
 title: "Spin the Wheel: Never Run Out of Things to Say on Stream"
 slug: "chat-roulette-zatsudan"
-date: 2026-04-12T10:00:00+09:00
+date: 2026-04-04T10:00:00+09:00
 draft: false
 description: "Add a spinning wheel to OBS and let it pick your chat topics. Includes 30 ready-to-use prompts and hosting tips."
 categories:

@@ -1,7 +1,7 @@
 ---
 title: "5 Chat Openers That Hook First-Time Viewers in Under 5 Minutes"
 slug: "ice-breaker-intro-5min"
-date: 2026-04-07T10:00:00+09:00
+date: 2026-04-03T15:00:00+09:00
 draft: false
 description: "The first five minutes of a stream decide whether a new viewer stays or leaves. Here are five ready-to-use openers you can try tonight."
 categories:

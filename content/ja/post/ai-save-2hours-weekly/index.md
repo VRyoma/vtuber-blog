@@ -1,7 +1,7 @@
 ---
 title: "AI 活用で配信者の作業時間を週 2 時間減らす具体手順"
 slug: "ai-save-2hours-weekly"
-date: 2026-05-08T10:00:00+09:00
+date: 2026-04-17T10:00:00+09:00
 draft: false
 description: "AI で配信の準備作業を週約 2 時間短縮する手順。タイトル・サムネ・告知文・切り抜きの 4 工程を具体例つきで解説。"
 categories:

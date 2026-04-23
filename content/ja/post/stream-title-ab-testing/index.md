@@ -1,7 +1,7 @@
 ---
 title: "どっちのタイトルが伸びる？ — 配信タイトルの A/B テスト入門"
 slug: "stream-title-ab-testing"
-date: 2026-04-15T10:00:00+09:00
+date: 2026-04-22T15:00:00+09:00
 draft: false
 description: "タイトルの末尾を少しだけ変えるだけでアーカイブのクリック率が変わります。自分の配信でA/Bテストを回す具体的な手順を紹介します。"
 categories:

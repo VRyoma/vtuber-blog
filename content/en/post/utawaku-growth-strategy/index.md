@@ -1,7 +1,7 @@
 ---
 title: "How to Grow Your Singing Streams — Setlists, Structure, and Promotion"
 slug: "utawaku-growth-strategy"
-date: 2026-04-11T10:00:00+09:00
+date: 2026-04-05T10:00:00+09:00
 draft: false
 description: "Streaming karaoke every week but not seeing growth? This guide breaks down song selection, stream structure, archive optimization, and social media promotion with practical steps you can use today."
 categories:

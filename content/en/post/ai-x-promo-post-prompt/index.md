@@ -1,7 +1,7 @@
 ---
 title: "Let AI Write Your X Promo Posts — A Prompt You Can Reuse"
 slug: "ai-x-promo-post-prompt"
-date: 2026-05-07T10:00:00+09:00
+date: 2026-04-14T15:00:00+09:00
 draft: false
 description: "Feed your best past posts to AI and generate promo tweets that still sound like you. Includes templates for pre-stream, mid-stream, and post-stream, plus a three-point checklist before you hit post."
 categories:

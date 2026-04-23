@@ -1,7 +1,7 @@
 ---
 title: "4 Frameworks to Make Your Milestone Stream More Than Just Small Talk"
 slug: "celebration-stream-4patterns"
-date: 2026-04-23T10:00:00+09:00
+date: 2026-04-10T10:00:00+09:00
 draft: false
 description: "Use four proven frameworks -- recap, quiz, surprise, and goal-setting -- to turn your milestone stream into a memorable event instead of two hours of thank-yous."
 categories:

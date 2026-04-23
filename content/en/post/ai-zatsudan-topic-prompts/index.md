@@ -1,7 +1,7 @@
 ---
 title: "3 Prompts That Make AI Generate Fresh Chat Topics for Every Stream"
 slug: "ai-zatsudan-topic-prompts"
-date: 2026-05-01T10:00:00+09:00
+date: 2026-04-15T10:00:00+09:00
 draft: false
 description: "Copy-paste these three ChatGPT prompts to get unique zatsudan topics for every stream. Includes output examples and tips to make AI suggestions sound like your own words."
 categories:

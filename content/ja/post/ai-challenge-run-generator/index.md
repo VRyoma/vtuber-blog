@@ -1,7 +1,7 @@
 ---
 title: "AI に「縛りプレイの条件」を生成させる 5 つの型"
 slug: "ai-challenge-run-generator"
-date: 2026-05-06T10:00:00+09:00
+date: 2026-04-16T10:00:00+09:00
 draft: false
 description: "縛りプレイの条件をAIにランダム生成させるプロンプト5パターンと難易度調整のコツを紹介。毎回違うチャレンジが作れるようになります。"
 categories:

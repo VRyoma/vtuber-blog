@@ -1,7 +1,7 @@
 ---
 title: "How to Pick an Indie Game That Looks Good on Stream"
 slug: "indie-game-one-stream-pick"
-date: 2026-04-09T10:00:00+09:00
+date: 2026-04-07T10:00:00+09:00
 draft: false
 description: "Picking the right indie game for a single-stream session comes down to three rules: short, visually distinct, and simple to control. Here's how to apply them."
 categories:

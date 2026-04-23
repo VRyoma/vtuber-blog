@@ -1,7 +1,7 @@
 ---
 title: "5 Prompt Patterns for AI-Generated Challenge Run Rules"
 slug: "ai-challenge-run-generator"
-date: 2026-05-06T10:00:00+09:00
+date: 2026-04-16T10:00:00+09:00
 draft: false
 description: "Five prompt templates that make AI generate fresh challenge-run rules on the spot, plus tips for dialing difficulty to your skill level."
 categories:

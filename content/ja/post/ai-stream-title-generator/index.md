@@ -1,7 +1,7 @@
 ---
 title: "AIで配信タイトルを量産→A/Bテストで選ぶ方法"
 slug: "ai-stream-title-generator"
-date: 2026-04-29T10:00:00+09:00
+date: 2026-04-12T15:00:00+09:00
 draft: false
 description: "AIで配信タイトルを10個生成→チェックリストで絞り込み→A/Bテストで効果を検証する3ステップを解説。タイトル選びの時間を5分に短縮する具体的手順です。"
 categories:

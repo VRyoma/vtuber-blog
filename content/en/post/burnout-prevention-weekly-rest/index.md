@@ -1,7 +1,7 @@
 ---
 title: "One Day Off a Week Keeps Streamer Burnout Away"
 slug: "burnout-prevention-weekly-rest"
-date: 2026-04-26T10:00:00+09:00
+date: 2026-04-18T10:00:00+09:00
 draft: false
 description: "Taking one fixed day off per week prevents streamer burnout before it starts. Here is how to spend that rest day and how to ease back in if your schedule has already slipped."
 categories:

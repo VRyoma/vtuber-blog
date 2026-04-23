@@ -1,7 +1,7 @@
 ---
 title: "配信の音量バランスを5分で直す — OBS音声ミキサーの基本設定"
 slug: "obs-audio-balance-5min"
-date: 2026-04-06T10:00:00+09:00
+date: 2026-04-21T10:00:00+09:00
 draft: false
 description: "ゲーム音が大きすぎて声が聞こえないという指摘をなくすため、OBSのオーディオミキサーで音声ソースごとの目安dBと優先度の付け方を解説します。"
 categories:

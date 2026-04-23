@@ -1,7 +1,7 @@
 ---
 title: "Repurpose One Stream Into Five Pieces of Content"
 slug: "repurpose-archive-5-contents"
-date: 2026-04-28T10:00:00+09:00
+date: 2026-04-19T10:00:00+09:00
 draft: false
 description: "Learn how to turn a single stream archive into five pieces of content — clips, shorts, quote images, text posts, and FAQ threads — in about 30 minutes."
 categories:

@@ -1,7 +1,7 @@
 ---
 title: "How to Save 2 Hours a Week on Stream Prep with AI"
 slug: "ai-save-2hours-weekly"
-date: 2026-05-08T10:00:00+09:00
+date: 2026-04-17T10:00:00+09:00
 draft: false
 description: "Cut roughly 2 hours of weekly stream prep using AI. Covers title ideas, thumbnail layouts, promo posts, and clip selection with concrete examples."
 categories:
