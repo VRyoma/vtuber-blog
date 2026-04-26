@@ -1,11 +1,11 @@
-# VTuber ネタ帳 — 執筆ガイド
+# Virtual Village — 執筆ガイド
 
 このリポジトリは Hugo で作る VTuber 向けのネタ共有ブログです。
 Claude Code で記事を書くときは **このドキュメント** と `.claude/skills/` のスキル定義に従ってください。
 
 ## サイト基本情報
 
-- **タイトル**: VTuber ネタ帳
+- **タイトル**: Virtual Village
 - **URL**: https://vvil.jp/
 - **言語**: 日本語メイン / 英語併設 (英語は任意。質の高い日本語を優先)
 - **スタック**: Hugo (extended) + hugo-theme-stack v3 / Cloudflare Workers Assets

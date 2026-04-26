@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-gen_cover.py — OGP / thumbnail cover generator for VTuber blog posts.
+gen_cover.py — OGP / thumbnail cover generator for Virtual Village.
 
 Usage:
   python3 scripts/gen_cover.py              # generate all missing cover.jpg
@@ -14,7 +14,7 @@ Output: content/{ja,en}/post/<slug>/cover.jpg  (1200x630 JPEG)
 import re
 import sys
 from pathlib import Path
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
 # ── Config ────────────────────────────────────────────────────────────────────
 
@@ -24,9 +24,11 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 JA_DIR   = BASE_DIR / "content" / "ja" / "post"
 EN_DIR   = BASE_DIR / "content" / "en" / "post"
 
-SITE_NAME = "VTuber ネタ帳"
+SITE_NAME = "Virtual Village"
 
-# Category accent colors  (RGB)
+BG = (11, 12, 20)  # near-black with slight blue tint
+
+# Category accent colors (RGB)
 COLORS = {
     "haishin-neta": (124, 58,  237),   # purple
     "game-ideas":   (22,  163, 74),    # green
@@ -34,7 +36,7 @@ COLORS = {
     "unei-tips":    (2,   132, 199),   # blue
     "ai-tips":      (234, 88,  12),    # orange
 }
-DEFAULT_COLOR = (107, 114, 128)        # gray
+DEFAULT_COLOR = (107, 114, 128)
 
 CATEGORY_LABELS = {
     "haishin-neta": "配信ネタ・企画",
@@ -67,9 +69,6 @@ def add_image_field(path: Path) -> None:
     path.write_text("---".join(parts), encoding="utf-8")
     print(f"    + image field → {path.relative_to(BASE_DIR)}")
 
-def lighten(rgb: tuple, t: float = 0.88) -> tuple:
-    return tuple(min(255, int(c + (255 - c) * t)) for c in rgb)
-
 def wrap(text: str, font, max_w: int, draw) -> list[str]:
     lines, cur = [], ""
     for ch in text:
@@ -84,7 +83,7 @@ def wrap(text: str, font, max_w: int, draw) -> list[str]:
         lines.append(cur)
     return lines
 
-def fit_title(text: str, max_w: int, draw, max_sz=64, min_sz=34, max_lines=3):
+def fit_title(text: str, max_w: int, draw, max_sz=68, min_sz=34, max_lines=3):
     for sz in range(max_sz, min_sz - 1, -4):
         font  = ImageFont.truetype(FONT, sz)
         lines = wrap(text, font, max_w, draw)
@@ -102,55 +101,70 @@ def fit_title(text: str, max_w: int, draw, max_sz=64, min_sz=34, max_lines=3):
 def render(title: str, category: str, out: Path) -> None:
     color     = COLORS.get(category, DEFAULT_COLOR)
     cat_label = CATEGORY_LABELS.get(category, category)
+    clean     = re.sub(r'^[「『"\'【]+|[」』"\'】]+$', "", title)
 
-    img  = Image.new("RGB", (WIDTH, HEIGHT), (252, 252, 252))
+    # ── Dark base with soft color glow ────────────────────────────────────────
+    base = Image.new("RGBA", (WIDTH, HEIGHT), (*BG, 255))
+
+    glow = Image.new("RGBA", (WIDTH, HEIGHT), (0, 0, 0, 0))
+    gd   = ImageDraw.Draw(glow)
+    # Primary glow: large ellipse at bottom-right
+    gd.ellipse(
+        [int(WIDTH * 0.42), int(HEIGHT * 0.20),
+         int(WIDTH * 1.38), int(HEIGHT * 1.18)],
+        fill=(*color, 55),
+    )
+    # Secondary glow: smaller, top-left
+    gd.ellipse([-100, -100, 340, 340], fill=(*color, 28))
+    glow = glow.filter(ImageFilter.GaussianBlur(radius=100))
+
+    img  = Image.alpha_composite(base, glow).convert("RGB")
     draw = ImageDraw.Draw(img)
 
-    # Left accent bar
-    draw.rectangle([(0, 0), (18, HEIGHT)], fill=color)
+    # ── Top accent stripe (5px) ───────────────────────────────────────────────
+    draw.rectangle([(0, 0), (WIDTH, 5)], fill=color)
 
-    # Top tint band
-    draw.rectangle([(18, 0), (WIDTH, 86)], fill=lighten(color, 0.88))
+    # ── Category badge (pill, top-left) ───────────────────────────────────────
+    MARGIN   = 80
+    BADGE_Y  = 56
+    font_cat = ImageFont.truetype(FONT, 26)
+    PX, PY   = 22, 9
+    cb  = draw.textbbox((0, 0), cat_label, font=font_cat)
+    bw  = cb[2] - cb[0] + PX * 2
+    bh  = cb[3] - cb[1] + PY * 2
+    draw.rounded_rectangle(
+        [(MARGIN, BADGE_Y), (MARGIN + bw, BADGE_Y + bh)],
+        radius=8, fill=color,
+    )
+    draw.text((MARGIN + PX, BADGE_Y + PY), cat_label, font=font_cat, fill=(255, 255, 255))
 
-    # Bottom dark bar
-    BAR_H = 88
-    draw.rectangle([(0, HEIGHT - BAR_H), (WIDTH, HEIGHT)], fill=(28, 28, 28))
+    # ── Title (white, left-aligned, vertically centred in remaining space) ────
+    TITLE_W   = WIDTH - MARGIN - 80
+    TITLE_TOP = BADGE_Y + bh + 36
+    TITLE_BOT = HEIGHT - 88
 
-    # Category badge in bottom bar
-    font_cat = ImageFont.truetype(FONT, 28)
-    PX, PY   = 18, 8
-    cb       = draw.textbbox((0, 0), cat_label, font=font_cat)
-    bw, bh   = cb[2] - cb[0] + PX * 2, cb[3] - cb[1] + PY * 2
-    bx       = 56
-    by       = HEIGHT - BAR_H + (BAR_H - bh) // 2
-    draw.rounded_rectangle([(bx, by), (bx + bw, by + bh)], radius=6, fill=color)
-    draw.text((bx + PX, by + PY), cat_label, font=font_cat, fill=(255, 255, 255))
+    font_t, lines = fit_title(clean, TITLE_W, draw, max_sz=68, min_sz=34, max_lines=3)
+    lh      = int(font_t.size * 1.50)
+    total_h = len(lines) * lh
+    ty      = TITLE_TOP + (TITLE_BOT - TITLE_TOP - total_h) // 2
 
-    # Site name (bottom right)
-    font_site = ImageFont.truetype(FONT, 22)
+    for i, line in enumerate(lines):
+        draw.text((MARGIN, ty + i * lh), line, font=font_t, fill=(240, 240, 252))
+
+    # ── Bottom separator + site name ──────────────────────────────────────────
+    SEP_Y = HEIGHT - 70
+    draw.line([(MARGIN, SEP_Y), (WIDTH - MARGIN, SEP_Y)], fill=(55, 58, 80), width=1)
+
+    font_site = ImageFont.truetype(FONT, 21)
     sb  = draw.textbbox((0, 0), SITE_NAME, font=font_site)
-    sw  = sb[2] - sb[0]
-    sh  = sb[3] - sb[1]
+    sw, sh = sb[2] - sb[0], sb[3] - sb[1]
     draw.text(
-        (WIDTH - 48 - sw, HEIGHT - BAR_H + (BAR_H - sh) // 2),
-        SITE_NAME, font=font_site, fill=(155, 155, 155),
+        (WIDTH - MARGIN - sw, SEP_Y + (70 - sh) // 2),
+        SITE_NAME, font=font_site, fill=(110, 115, 148),
     )
 
-    # Title — auto-fit into centre area
-    MARGIN_L  = 64
-    TITLE_W   = WIDTH - MARGIN_L - 48
-    TITLE_TOP = 104
-    TITLE_BOT = HEIGHT - BAR_H - 16
-    clean     = re.sub(r'^[「『"\'【]+|[」』"\'】]+$', "", title)
-    font_t, lines = fit_title(clean, TITLE_W, draw)
-    lh        = int(font_t.size * 1.48)
-    total_h   = len(lines) * lh
-    ty        = TITLE_TOP + (TITLE_BOT - TITLE_TOP - total_h) // 2
-    for i, line in enumerate(lines):
-        draw.text((MARGIN_L, ty + i * lh), line, font=font_t, fill=(22, 22, 22))
-
     out.parent.mkdir(parents=True, exist_ok=True)
-    img.save(str(out), "JPEG", quality=90)
+    img.save(str(out), "JPEG", quality=92)
     print(f"  ✓ {out.relative_to(BASE_DIR)}")
 
 # ── Per-slug processing ───────────────────────────────────────────────────────
@@ -169,7 +183,6 @@ def process(slug: str, force: bool) -> None:
         return
     category = cats[0] if cats else ""
 
-    # Japanese cover
     ja_cover = JA_DIR / slug / "cover.jpg"
     if force or not ja_cover.exists():
         render(title, category, ja_cover)
@@ -177,7 +190,6 @@ def process(slug: str, force: bool) -> None:
     else:
         print(f"  – {slug} (ja cover exists, use --force to overwrite)")
 
-    # English cover — use English title if en version exists
     if en_md.exists():
         en_title, en_cats = parse_frontmatter(en_md)
         en_category       = en_cats[0] if en_cats else category
