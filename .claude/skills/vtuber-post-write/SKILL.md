@@ -25,7 +25,7 @@ description: Use this skill when the user wants to write a full VTuber blog post
 | 項目 | 必須 | 備考 |
 |---|---|---|
 | slug | ✅ | kebab-case 英数字 |
-| カテゴリ | ✅ | `haishin-neta` / `game-ideas` / `utawaku` / `unei-tips` の 1 つ |
+| カテゴリ | ✅ | `haishin-neta` / `game-ideas` / `utawaku` / `unei-tips` / `ai-tips` の 1 つ |
 | 読者の悩み | ✅ | 1 行 |
 | 核になる価値 | ✅ | 1 行 |
 | 希望の長さ | 省略可 | 既定 3,000 字前後 |
@@ -101,12 +101,15 @@ tags:
 ```
 
 3. 本文を挿入
-4. `hugo --gc --minify` を実行して warning/error 0 を確認
-5. ユーザへの報告:
+4. `./node_modules/.bin/hugo --gc --minify` を実行して warning/error 0 を確認
+5. サムネイル生成: `python3 scripts/gen_cover.py <slug>` を実行
+   - cover.jpg が `content/ja/post/<slug>/` に生成される
+   - frontmatter に `image: "cover.jpg"` が自動挿入される
+6. ユーザへの報告:
    - 保存 path
    - ワードカウント
-   - プレビュー URL: `https://vtblog.vvil.jp/p/<slug>/`
-   - カバー画像を置く場所の案内: `content/ja/post/<slug>/cover.jpg`
+   - プレビュー URL: `https://vvil.jp/p/<slug>/`
+   - 生成された cover.jpg のプレビュー (Read ツールで画像を表示)
 
 ## Phase 4 (任意) — 英語版
 
