@@ -11,6 +11,7 @@ tags:
   - stream-promotion
   - social-media
   - scheduling
+image: "cover.jpg"
 ---
 
 Ever posted "stream starting now!" on X and barely got any reactions?

@@ -11,6 +11,7 @@ tags:
   - stream-structure
   - endings
   - community
+image: "cover.jpg"
 ---
 
 You wrap up the game, say "okay, I think that's it for today," and close the stream.

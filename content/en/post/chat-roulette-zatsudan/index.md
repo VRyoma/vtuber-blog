@@ -11,6 +11,7 @@ tags:
   - audience-participation
   - OBS
   - first-time-viewers
+image: "cover.jpg"
 ---
 
 Every streamer knows the feeling. Chat slows down, your mind goes blank, and you catch yourself thinking, "What do I talk about next?"

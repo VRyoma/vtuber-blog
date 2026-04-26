@@ -10,6 +10,7 @@ tags:
   - ai-tools
   - clip-highlights
   - archive-reuse
+image: "cover.jpg"
 ---
 
 Ever told yourself "I'll make clips later" after a stream -- and never did?

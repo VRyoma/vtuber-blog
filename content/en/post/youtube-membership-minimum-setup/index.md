@@ -10,6 +10,7 @@ tags:
   - monetization
   - channel memberships
   - YouTube
+image: "cover.jpg"
 ---
 
 You want to start channel memberships, but you keep putting it off. "I do not have enough perks lined up." "My subscriber count feels too low." If any of that sounds familiar, you are in good company.

@@ -10,6 +10,7 @@ tags:
   - Interactive
   - Music Requests
   - Chat Games
+image: "cover.jpg"
 ---
 
 Ever wanted your viewers to pick what you sing on stream? Request streams are a simple interactive format that naturally drives up comment count. Add a voting round on top of plain requests and the energy goes even higher.

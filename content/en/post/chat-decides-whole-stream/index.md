@@ -10,6 +10,7 @@ tags:
   - Interactive
   - Zatsudan
   - Beginner-Friendly
+image: "cover.jpg"
 ---
 
 Staring at the "Go Live" button with no idea what to stream? Planning content from scratch every time takes real energy. But if you let chat make the calls, the heavy lifting shifts away from you -- and your viewers love it.

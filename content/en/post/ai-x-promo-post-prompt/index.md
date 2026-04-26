@@ -10,6 +10,7 @@ tags:
   - ai-tools
   - x-promo
   - prompt-engineering
+image: "cover.jpg"
 ---
 
 Thirty minutes before stream. You are staring at the compose box, wondering what to write. That ritual adds up faster than you think.

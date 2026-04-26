@@ -10,6 +10,7 @@ tags:
   - ai-tools
   - karaoke-streams
   - setlist
+image: "cover.jpg"
 ---
 
 Stream day is set, but you've spent 30 minutes staring at your song list wondering what to sing. Sound familiar?

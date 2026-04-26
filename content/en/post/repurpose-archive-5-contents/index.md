@@ -10,6 +10,7 @@ tags:
   - archive repurposing
   - social media posting
   - content repurposing
+image: "cover.jpg"
 ---
 
 You stream consistently every week, but the moment you open X (formerly Twitter) or Instagram, you freeze. "What should I post?" If that sounds familiar, you are not alone.

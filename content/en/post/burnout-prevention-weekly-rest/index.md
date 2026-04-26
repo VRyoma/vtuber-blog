@@ -11,6 +11,7 @@ tags:
   - motivation
   - rest
   - streaming-schedule
+image: "cover.jpg"
 ---
 
 You know you should go live today, but you cannot bring yourself to open OBS. When that feeling lasts two or three days, you start wondering whether you are even cut out for streaming. Sound familiar?

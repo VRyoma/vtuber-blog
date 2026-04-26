@@ -11,6 +11,7 @@ tags:
   - beginners
   - streaming-setup
   - budget
+image: "cover.jpg"
 ---
 
 "I want to set up my gear, but I don't know where to start." Every new streamer hits this wall. Search online and you'll find setups costing hundreds of thousands of yen. It's overwhelming.

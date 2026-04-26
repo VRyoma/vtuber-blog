@@ -10,6 +10,7 @@ tags:
   - retro games
   - commentary
   - game selection
+image: "cover.jpg"
 ---
 
 Ever wanted to stream a retro game but hesitated because you were not sure you could finish it in one sitting?

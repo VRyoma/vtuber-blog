@@ -11,6 +11,7 @@ tags:
   - audio-levels
   - streaming-setup
   - audio
+image: "cover.jpg"
 ---
 
 Has a viewer ever told you the game sound is drowning out your voice?

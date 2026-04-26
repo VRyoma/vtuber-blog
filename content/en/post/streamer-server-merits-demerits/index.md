@@ -12,6 +12,7 @@ tags:
   - minecraft
   - events
   - server
+image: "cover.jpg"
 ---
 
 "I got invited, but should I really join?" If an invitation to a streamer server (shared multiplayer game servers where VTubers play and stream together) has you second-guessing, you are not alone. These servers promise more collabs, but they also carry real risks. Knowing what you are getting into ahead of time saves you from regret later.

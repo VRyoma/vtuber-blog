@@ -10,6 +10,7 @@ tags:
   - singing streams
   - song selection
   - setlists
+image: "cover.jpg"
 ---
 
 Ever stared at your song list near the end of a stream and thought, "What do I sing for the last one?"

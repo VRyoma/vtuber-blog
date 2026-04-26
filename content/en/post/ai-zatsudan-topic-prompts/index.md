@@ -10,6 +10,7 @@ tags:
   - ai-tools
   - chat-topics
   - prompts
+image: "cover.jpg"
 ---
 
 Opening a search tab ten minutes before stream, wondering what to talk about? You worry about repeating old topics and end up with the same safe subjects every time.

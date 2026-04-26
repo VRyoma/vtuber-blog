@@ -12,6 +12,7 @@ tags:
   - scripting
   - prompts
   - chatgpt
+image: "cover.jpg"
 ---
 
 Ever freeze up mid-stream with no idea what to say next? Some streams flow naturally. Others hit a ten-minute silence wall. Preparing a script sounds like the fix — but writing one from scratch every time is its own chore.

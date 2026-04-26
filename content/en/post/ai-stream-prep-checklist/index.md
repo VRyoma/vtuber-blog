@@ -10,6 +10,7 @@ tags:
   - ai-tools
   - stream-prep
   - checklist
+image: "cover.jpg"
 ---
 
 Do you keep forgetting something different before every stream? The BGM volume one day, the OBS scene switch the next?

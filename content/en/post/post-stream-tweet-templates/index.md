@@ -11,6 +11,7 @@ tags:
   - post-stream
   - templates
   - archive-promotion
+image: "cover.jpg"
 ---
 
 After a stream ends, do you just tweet "Thanks for watching today!" and call it done? That post-stream tweet is prime real estate for driving archive views. But writing something fresh every time is exhausting.

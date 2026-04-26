@@ -11,6 +11,7 @@ tags:
   - ab-testing
   - archives
   - data-analysis
+image: "cover.jpg"
 ---
 
 Ever wondered whether your title tweaks actually make a difference?

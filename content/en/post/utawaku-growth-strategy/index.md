@@ -13,6 +13,7 @@ tags:
   - SNS
   - archive
   - growth
+image: "cover.jpg"
 ---
 
 You've been running singing streams every week — but somehow your subscriber count just isn't moving. Sound familiar?

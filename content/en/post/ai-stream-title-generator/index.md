@@ -10,6 +10,7 @@ tags:
   - ai-tools
   - stream-titles
   - ab-testing
+image: "cover.jpg"
 ---
 
 Do you catch yourself using the same stream title pattern every time?
