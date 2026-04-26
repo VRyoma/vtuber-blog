@@ -6,7 +6,7 @@ Claude Code で記事を書くときは **このドキュメント** と `.claud
 ## サイト基本情報
 
 - **タイトル**: VTuber ネタ帳
-- **URL**: https://vtblog.vvil.jp/
+- **URL**: https://vvil.jp/
 - **言語**: 日本語メイン / 英語併設 (英語は任意。質の高い日本語を優先)
 - **スタック**: Hugo (extended) + hugo-theme-stack v3 / Cloudflare Workers Assets
 
