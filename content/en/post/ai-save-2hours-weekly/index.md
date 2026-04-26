@@ -10,6 +10,7 @@ tags:
   - ai-tools
   - workflow
   - time-saving
+image: "cover.jpg"
 ---
 
 Your stream is one hour. But thinking up a title, planning a thumbnail, writing a promo post — that prep adds another two. These invisible tasks pile up fast, and a lot of them are perfect for AI.

@@ -10,6 +10,7 @@ tags:
   - ai-tools
   - stream-ideas
   - brainstorming
+image: "cover.jpg"
 ---
 
 Ever open your notes and realize every idea looks like the last one? You are not out of ideas. You are stuck in the same thought patterns.

@@ -11,6 +11,7 @@ tags:
   - cloudflare
   - static-site
   - deploy
+image: "cover.jpg"
 ---
 
 Want a site on your own domain but don't want to pay monthly hosting?

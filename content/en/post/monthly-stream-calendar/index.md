@@ -11,6 +11,7 @@ tags:
   - calendar
   - google-calendar
   - stream-frequency
+image: "cover.jpg"
 ---
 
 Ten minutes before going live, you're still asking yourself: "What should I stream today?"

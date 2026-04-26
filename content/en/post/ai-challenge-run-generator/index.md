@@ -10,6 +10,7 @@ tags:
   - ai-tools
   - challenge-runs
   - game-streaming
+image: "cover.jpg"
 ---
 
 "No damage runs!" "Speedrun challenge!" Sound familiar? If you keep reaching for the same restrictions, your viewers probably notice too.

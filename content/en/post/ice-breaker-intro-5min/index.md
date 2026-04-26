@@ -11,6 +11,7 @@ tags:
   - small-talk
   - audience-participation
   - stream-intro
+image: "cover.jpg"
 ---
 
 You know the feeling. A first-time viewer drops in, you're mid-game, you don't quite know what to say, and five minutes later they're gone.

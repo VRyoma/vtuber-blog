@@ -10,6 +10,7 @@ tags:
   - character design
   - debut prep
   - beginner friendly
+image: "cover.jpg"
 ---
 
 You want to start streaming as a VTuber, but you cannot figure out what character to play. Nailing down your character is the most common roadblock before debut. Maybe you picked a name but cannot settle on how you talk, or you packed in so many traits that the whole thing feels unusable.

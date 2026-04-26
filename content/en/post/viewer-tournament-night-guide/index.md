@@ -11,6 +11,7 @@ tags:
   - Competitive
   - Multiplayer
   - Event Planning
+image: "cover.jpg"
 ---
 
 Want to host a tournament with your viewers but unsure where to start? Worried about how to keep things moving once everyone is in the lobby?

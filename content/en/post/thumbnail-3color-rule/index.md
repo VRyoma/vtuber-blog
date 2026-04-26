@@ -11,6 +11,7 @@ tags:
   - stream-promotion
   - design
   - archives
+image: "cover.jpg"
 ---
 
 You saved the archive, but the thumbnail gets lost in the feed and nobody clicks.

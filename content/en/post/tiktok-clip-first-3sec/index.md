@@ -11,6 +11,7 @@ tags:
   - clips
   - video-editing
   - highlights
+image: "cover.jpg"
 ---
 
 You post a clip on TikTok and it gets swiped away in half a second. Sound familiar?

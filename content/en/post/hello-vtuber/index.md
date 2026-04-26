@@ -9,6 +9,7 @@ categories:
 tags:
   - intro
   - editorial
+image: "cover.jpg"
 ---
 
 ## Hi there

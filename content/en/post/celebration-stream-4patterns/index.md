@@ -10,6 +10,7 @@ tags:
   - milestone stream
   - stream planning
   - audience participation
+image: "cover.jpg"
 ---
 
 You sit down to plan a milestone stream, and before you know it, two hours have passed with nothing but "thank you so much!" and casual chatting. Sound familiar?

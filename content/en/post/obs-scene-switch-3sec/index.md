@@ -11,6 +11,7 @@ tags:
   - streaming-setup
   - hotkeys
   - source-organization
+image: "cover.jpg"
 ---
 
 Ever panicked mid-stream because you forgot to swap the BGM or missed the right scene?

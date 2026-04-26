@@ -11,6 +11,7 @@ tags:
   - game-streaming
   - title-selection
   - stream-prep
+image: "cover.jpg"
 ---
 
 You know the feeling. Thirty minutes before going live, you're scrolling through your game library and end up picking the same title as last time.

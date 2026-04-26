@@ -9,6 +9,7 @@ categories:
 tags:
   - はじめに
   - 運営方針
+image: "cover.jpg"
 ---
 
 ## はじめまして

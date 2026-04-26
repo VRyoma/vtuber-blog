@@ -10,6 +10,7 @@ tags:
   - singing streams
   - vocal warm-up
   - voice training
+image: "cover.jpg"
 ---
 
 Your voice cracks on the first song of every singing stream. Song two sounds fine, so why does that opening track always feel shaky?

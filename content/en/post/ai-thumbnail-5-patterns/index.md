@@ -10,6 +10,7 @@ tags:
   - ai-tools
   - thumbnails
   - image-generation
+image: "cover.jpg"
 ---
 
 Still building every thumbnail from scratch? You open a canvas, stare at it, and before you know it 30 minutes are gone.
