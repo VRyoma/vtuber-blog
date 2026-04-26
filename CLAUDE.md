@@ -46,6 +46,7 @@ Claude Code で記事を書くときは **このドキュメント** と `.claud
 | `game-ideas` | ゲーム実況アイデア | Gaming Ideas | タイトル選定、縛り、切り口 |
 | `utawaku` | 歌枠・歌ってみた | Singing Streams | 選曲、構成、機材 |
 | `unei-tips` | 運営・裏方Tips | Creator Tips | 技術、SNS、サムネ、収益化 |
+| `ai-tips` | AI活用 | AI Tools | ChatGPT/Claude 等の活用法、プロンプト、自動化 |
 
 1 記事 1 カテゴリが原則。複数タグは OK。
 
