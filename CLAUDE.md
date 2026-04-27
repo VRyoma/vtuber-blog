@@ -47,6 +47,8 @@ Claude Code で記事を書くときは **このドキュメント** と `.claud
 | `utawaku` | 歌枠・歌ってみた | Singing Streams | 選曲、構成、機材 |
 | `unei-tips` | 運営・裏方Tips | Creator Tips | 技術、SNS、サムネ、収益化 |
 | `ai-tips` | AI活用 | AI Tools | ChatGPT/Claude 等の活用法、プロンプト、自動化 |
+| `trend-neta` | 流行・トレンド | Trending Now | 今 VTuber 界隈で話題のゲーム・新商品・バズネタ。鮮度が命の記事 |
+| `douga-neta` | 動画ネタ | Video Ideas | 配信ではなく投稿動画に特化したネタ・構成・編集アイデア |
 
 1 記事 1 カテゴリが原則。複数タグは OK。
 
