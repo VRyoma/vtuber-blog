@@ -35,6 +35,8 @@ COLORS = {
     "utawaku":      (219, 39,  119),   # pink
     "unei-tips":    (2,   132, 199),   # blue
     "ai-tips":      (234, 88,  12),    # orange
+    "trend-neta":   (245, 158, 11),    # amber
+    "douga-neta":   (6,   182, 212),   # cyan
 }
 DEFAULT_COLOR = (107, 114, 128)
 
@@ -42,8 +44,10 @@ CATEGORY_LABELS = {
     "haishin-neta": "配信ネタ・企画",
     "game-ideas":   "ゲーム実況",
     "utawaku":      "歌枠・歌ってみた",
-    "unei-tips":    "運営・裏方 Tips",
+    "unui-tips":    "運営・裏方 Tips",
     "ai-tips":      "AI 活用",
+    "trend-neta":   "流行・トレンド",
+    "douga-neta":   "動画ネタ",
 }
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
