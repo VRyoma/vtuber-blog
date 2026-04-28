@@ -13,7 +13,7 @@ menu:
 **鏑流馬 流馬（やぶさめ りょうま）** と申します。  
 VR 好きなバーチャル系エンジニアの一般成人男性です。
 
-本業はフルスタックエンジニア（UI/UX デザイン・フロントエンド・バックエンド・インフラ・AI 開発など）で、副業的に配信活動や配信者向けのツール制作をしています。
+本業はフルスタックエンジニア（UI/UX デザイン・フロントエンド・バックエンド・インフラ・AI 開発など）で、趣味的に配信活動や配信者向けのツール制作をしています。
 
 ### VR 歴と配信のきっかけ
 
@@ -55,7 +55,7 @@ VR / ゲーム / ジムトレ / サウナ / 料理 / 謎解き（リアル脱出
 | | |
 |---|---|
 | X (Twitter) | [@ryoma_dq](https://twitter.com/ryoma_dq) |
-| YouTube | [鏑流馬 流馬チャンネル](https://www.youtube.com/channel/UCaINMeCRB3imgr27jG9gOVQ) |
+| YouTube | [りょうま](https://www.youtube.com/channel/UCaINMeCRB3imgr27jG9gOVQ) |
 | Twitch | [yabusameryoma](https://www.twitch.tv/yabusameryoma) |
 | GitHub | [VRyoma](https://github.com/VRyoma) |
 
