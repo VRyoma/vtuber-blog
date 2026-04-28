@@ -1,11 +1,6 @@
 ---
 title: このサイトについて
 description: Virtual Village 運営者・鏑流馬 流馬のプロフィールとサイトの方針
-menu:
-  main:
-    weight: -90
-    params:
-      icon: user
 ---
 
 ## 運営者について

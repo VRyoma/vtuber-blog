@@ -30,6 +30,14 @@
   [main.params]
     icon = "user"
 
+[[main]]
+  identifier = "contact"
+  name = "Contact"
+  url = "/contact/"
+  weight = 45
+  [main.params]
+    icon = "mail"
+
 [[social]]
   identifier = "x"
   name = "𝕏"
