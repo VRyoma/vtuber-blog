@@ -9,7 +9,7 @@
         {{ with .Site.Params.sidebar.avatar }}
             {{ if (default true .enabled) }}
             <figure class="site-avatar">
-                <a href="https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/20631016369120894880391239628088998980522253355902936879703445099319641767937" target="_blank" rel="noopener noreferrer" title="Yabusame Ryoma on OpenSea">
+                <a href="{{ "profile/" | relLangURL }}" title="プロフィール">
                 {{ if not .local }}
                     <img src="{{ .src }}" width="300" height="300" class="site-logo" loading="lazy" alt="Avatar">
                 {{ else }}

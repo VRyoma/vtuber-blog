@@ -23,12 +23,20 @@
     icon = "search"
 
 [[main]]
+  identifier = "profile"
+  name = "Profile"
+  url = "/en/profile/"
+  weight = 35
+  [main.params]
+    icon = "user"
+
+[[main]]
   identifier = "about"
   name = "About"
   url = "/en/about/"
   weight = 40
   [main.params]
-    icon = "user"
+    icon = "info"
 
 [[main]]
   identifier = "contact"
