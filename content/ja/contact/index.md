@@ -9,7 +9,7 @@ description: Virtual Village へのお問い合わせ・ご感想・お仕事の
 ---
 
 <form
-  action="https://formspree.io/f/XXXXXXXX"
+  action="https://formspree.io/f/mqewrlql"
   method="POST"
   style="max-width:540px; display:flex; flex-direction:column; gap:1rem;"
 >
