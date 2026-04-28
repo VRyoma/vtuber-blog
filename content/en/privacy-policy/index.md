@@ -51,9 +51,9 @@ This site does not share personal information with third parties except as requi
 
 ---
 
-## Your Rights
+## Deleting Your Data
 
-To request access to, correction of, or deletion of your personal data, please contact us via the [contact form](/en/contact/) or X DM.
+If you'd like the information you submitted via the contact form to be deleted, please reach out via the [contact form](/en/contact/) or X DM.
 
 ---
 
