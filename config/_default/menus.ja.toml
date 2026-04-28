@@ -31,6 +31,14 @@
     icon = "user"
 
 [[main]]
+  identifier = "contact"
+  name = "お問い合わせ"
+  url = "/contact/"
+  weight = 45
+  [main.params]
+    icon = "mail"
+
+[[main]]
   identifier = "privacy-policy"
   name = "プライバシーポリシー"
   url = "/privacy-policy/"
