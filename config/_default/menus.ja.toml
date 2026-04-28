@@ -23,12 +23,20 @@
     icon = "search"
 
 [[main]]
+  identifier = "profile"
+  name = "プロフィール"
+  url = "/profile/"
+  weight = 35
+  [main.params]
+    icon = "user"
+
+[[main]]
   identifier = "about"
   name = "このサイトについて"
   url = "/about/"
   weight = 40
   [main.params]
-    icon = "user"
+    icon = "info"
 
 [[main]]
   identifier = "contact"
