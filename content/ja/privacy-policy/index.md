@@ -36,6 +36,16 @@ description: "Virtual Villageのプライバシーポリシーと免責事項。
 
 ---
 
+## アクセス解析ツール（Google アナリティクス）について
+
+当サイトでは、アクセス状況の把握を目的として **Google アナリティクス**（Google LLC）を利用しています。Google アナリティクスはトラフィックデータの収集のために Cookie を使用しています。収集されるデータは匿名で処理され、個人を特定するものではありません。
+
+Google アナリティクスによるデータの収集・処理の仕組みについては、[ユーザーが Google パートナーのサイトやアプリを使用する際の Google によるデータ使用](https://www.google.com/intl/ja/policies/privacy/partners/)をご確認ください。
+
+Google アナリティクスの Cookie を無効にする場合は、[Google アナリティクス オプトアウト アドオン](https://tools.google.com/dlpage/gaoptout?hl=ja)をご利用ください。
+
+---
+
 ## 個人情報の第三者提供
 
 当サイトは、以下の場合を除き、取得した個人情報を第三者に提供しません。
