@@ -14,7 +14,9 @@ Full-stack engineer by day, hobbyist streamer and creator-tools builder by night
 
 ## From PlayStation VR to Streaming
 
-It started with a PlayStation VR on launch day in 2016.
+Streaming actually started much earlier — around **2009 on Niconico Live**, with a PS3 let's play of White Knight Chronicles (白騎士物語). Game commentary and chat streams continued from there.
+
+Then in 2016, a PlayStation VR on launch day opened up a whole new dimension.
 
 Since then: Oculus Go → HTC VIVE Pro → Meta Quest 3 → **PlayStation VR2 + mocopi (PCVR)**, with an **Apple Vision Pro** on the side (purchased for ¥600,000, now primarily a Disney+ device — though I hold out hope for VRChat support).
 
