@@ -1,41 +1,19 @@
 ---
 title: About
-description: About Virtual Village and its author, Yabusameryoma.
+description: What Virtual Village is, who it's for, and how it's run.
 ---
 
-## About the Author
+## What is this?
 
-**Yabusameryoma** (やぶさめりょうま) — full-stack engineer, VR enthusiast, and hobbyist streamer based in Japan.
+**Virtual Village** is a blog of streaming ideas, show formats, creator ops tips, and behind-the-scenes advice — mostly for independent VTubers active on YouTube and Twitch.
 
-I've been exploring VR since 2016 (PlayStation VR → Oculus Go → HTC VIVE Pro → Meta Quest 3 → PlayStation VR2 + mocopi + Apple Vision Pro), and somewhere along the way started dabbling in VTuber-style streaming on YouTube and Twitch.
-
-My day job is software engineering (UI/UX, frontend, backend, infrastructure, AI), which means I tend to approach streaming from a tools-and-systems angle. I've built a few small utilities for streamers along the way:
-
-- **[Weekly Schedule Image Maker](https://weekcal.vvil.jp/)** — fill in your week, export a clean image to post on X
-- **[Dried Sweet Potato List Game](https://hosiimo.vvil.jp/)** — a silly score-attack mini-game
-
-I hold a national web design technician certification and have been making websites since elementary school.
-
----
-
-## About Virtual Village
-
-**Virtual Village** is a slow-growing collection of stream ideas, formats, song set design tips, and creator operations advice — mostly for independent VTubers active on YouTube and Twitch.
+The perspective is that of an engineer thinking about stream design: tools, systems, and repeatable approaches over vague advice.
 
 - **Who is it for?** — indie VTubers streaming 3–5 times a week, aspiring debutants, and backstage crew
 - **What will you find?** — stream concepts, gaming bit ideas, karaoke set structures, AI tools, SNS and channel ops tips
 - **What won't you find?** — drama, callouts, or gossip about specific creators
 
----
-
-## Links
-
-| | |
-|---|---|
-| X (Twitter) | [@ryoma_dq](https://twitter.com/ryoma_dq) |
-| YouTube | [りょうま](https://www.youtube.com/channel/UCaINMeCRB3imgr27jG9gOVQ) |
-| Twitch | [yabusameryoma](https://www.twitch.tv/yabusameryoma) |
-| GitHub | [VRyoma](https://github.com/VRyoma) |
+About the author → [Profile](/en/profile/)
 
 ---
 
@@ -43,4 +21,9 @@ I hold a national web design technician certification and have been making websi
 
 - No punching down — no callouts, rankings, or comparisons of specific creators
 - Posts get updated when they go stale
-- Fan art, let's plays, and other derivative works are welcome — tag me on X
+- No unverified information or rumours
+
+## License
+
+Text on this site may be freely quoted or referenced with attribution.  
+Fan works (let's plays, fan art, etc.) are welcome — tag [@ryoma_dq](https://twitter.com/ryoma_dq) on X.
